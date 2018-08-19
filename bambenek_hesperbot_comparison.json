@@ -1,0 +1,38 @@
+[
+	{
+		"name": "bambenek_banjori",
+		"category": "malware",
+		"ips": 113,
+		"common": 2
+	},
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 460,
+		"common": 2
+	},
+	{
+		"name": "blueliv_crimeserver_online",
+		"category": "attacks",
+		"ips": 81026,
+		"common": 2
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 636200282,
+		"common": 2
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 46876,
+		"common": 2
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 45658,
+		"common": 2
+	}
+]
